@@ -1,4 +1,4 @@
-package sn.edu.groupeisi.gestionstages.entity;
+package sn.edu.groupeisi.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

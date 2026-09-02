@@ -1,4 +1,4 @@
-package sn.edu.groupeisi.modeles;
+package sn.edu.groupeisi.entities;
 
 import jakarta.persistence.*;
 import lombok.Getter;

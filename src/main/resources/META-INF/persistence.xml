@@ -5,7 +5,7 @@
     <persistence-unit name="groupeisi" transaction-type="RESOURCE_LOCAL">
         <provider>org.eclipse.persistence.jpa.PersistenceProvider</provider>
         <class>sn.edu.groupeisi.entities.Stage</class>
-        <class>sn.edu.groupeisi.modeles.Entreprise</class>
+        <class>sn.edu.groupeisi.entities.Entreprise</class>
         <properties>
             <property name="jakarta.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/gestion_stages"/>
             <property name="jakarta.persistence.jdbc.user" value="gstages"/>
